@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=42&duration=1&pause=99999&color=C8553D&background=00000000&center=false&vCenter=true&width=600&height=60&lines=i'm+dhila+mahira" alt="i'm dhila mahira" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=700&amp;size=42&amp;duration=1&amp;pause=99999&amp;color=C8553D&amp;background=00000000&amp;center=false&amp;vCenter=true&amp;width=600&amp;height=60&amp;lines=i'm+dhila+mahira" alt="i'm dhila mahira" />
 
 <p>
   <a href="https://en.wikipedia.org/wiki/Women_in_computing"><img src="./assets/pills/women_in_tech.svg" alt="Women in Tech" /></a>
@@ -19,7 +19,7 @@
 <img align="right" src="./assets/scenery.jpg" alt="Dhila Mahira Header Banner" width="220" style="border-radius: 8px; max-width: 100%; height: auto; margin-left: 20px;" />
 
 
-Final-year **Informatics** student specializing in **Cyber Security**, with practical experience in **Security Monitoring** and **Security Automation**.
+**Informatics** graduate specializing in **Cyber Security**. Practical experience in **Security Monitoring** and **Security Automation**.
 
 - **Focus Area**: Detection engineering, log analysis (SIEM), and designing automated response workflows.
 - **Community**: Active member and advocate across **Women in Tech** and **Women in Cyber** initiatives — passionate about knowledge sharing and community empowerment.
